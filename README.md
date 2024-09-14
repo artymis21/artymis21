@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tharun
-- 👀 I’m interested in ethical hacking and learning kali linux .... and also intrested in cloud computing
-- 🌱 I’m currently learning ... cyber security c++
-- 💞️ I’m looking to collaborate on ... cyber security
+- 🌱 I’m currently learning ... cyber security, python, Fullstack 
 - 📫 How to reach me @tharunshamalan@gmail.com
 
 <!---
