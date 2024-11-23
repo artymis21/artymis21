@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharun
-- 🌱 I’m currently learning ... cyber security, python, Fullstack 
+- 🌱 I’m currently learning ... cyber security
 - 📫 How to reach me @tharunshamalan@gmail.com
 
 <!---
